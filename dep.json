@@ -1,6 +1,7 @@
 {
   "test3":{
     "uri":"https://github.com/jonyks/test3",
-    "version":"v1.2"
+    "version":"v1.2",
+    "path":""
   }
 }
